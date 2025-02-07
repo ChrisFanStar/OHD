@@ -1,5 +1,8 @@
 # Online Dictionary Helper (with Anki support)
 
+original repo: https://github.com/ninja33/ODH
+
+
 
 ## add a new dictionary
 name youdao enen is english to english , doesn't have any Chinese
