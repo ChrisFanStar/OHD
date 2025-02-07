@@ -1,5 +1,19 @@
 # Online Dictionary Helper (with Anki support)
 
+
+## add a new dictionary
+name youdao enen is english to english , doesn't have any Chinese
+
+steps
+1: Add the steps to add a .src folder in Google Chrome; that's all.
+
+![src](./doc/img/image.png)
+
+![added](./doc/img/image-1.png)
+
+
+
+
 [[中文版说明](README.zh_CN.md)]
 
 Online Dictionary Helper is a Chrome/Firefox extension to show definitions for words and phrases from online (or builtin) dictionary via users' selection on any webpage and PDF documents (using [pdf.js](https://mozilla.github.io/pdf.js/)), which also supports flash-card creation using [Anki](https://github.com/dae/anki) (with **[AnkiConnect](https://github.com/FooSoft/anki-connect)**, an Anki add-on, installed).
