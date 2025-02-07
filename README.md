@@ -10,6 +10,8 @@ name youdao enen is english to english , doesn't have any Chinese
 steps
 1: Add the steps to add a .src folder in Google Chrome; that's all.
 
+![alt text](./doc/img/image12.png)
+
 ![src](./doc/img/image.png)
 
 ![added](./doc/img/image-1.png)
