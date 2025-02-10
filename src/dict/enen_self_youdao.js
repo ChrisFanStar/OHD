@@ -24,6 +24,10 @@ class enen_self_youdao {
         this.word = word;
         //let deflection = api.deinflect(word);
         let results = await Promise.all([this.findCollins(word)]);
+        console.log(44444);
+        console.log(results);
+
+
         return [].concat(...results).filter(x => x);
     }
 
@@ -199,6 +203,7 @@ class enen_self_youdao {
                 definitions: [definition],
                 audios
             });
+            console.log(notes);
             return notes;
         }
 

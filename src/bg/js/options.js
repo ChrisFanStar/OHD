@@ -73,7 +73,8 @@ function populateSysScriptsList(dictLibrary) {
         'enfr_Cambridge', 'enfr_Collins', //en-fr dictionaries
         'fren_Cambridge', 'fren_Collins', //fr-cn dictionaries
         'esen_Spanishdict', 'decn_Eudict', 'escn_Eudict', 'frcn_Eudict', 'frcn_Youdao', 'rucn_Qianyi', //msci dictionaries
-        'enen_self_youdao'
+        'enen_self_youdao',
+        'de_en_dictionary'
     ];
     $('#scriptslistbody').empty();
     systemscripts.forEach(script => {
